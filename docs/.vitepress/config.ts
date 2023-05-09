@@ -5,7 +5,7 @@ export default defineConfig({
   title: "Chadwm-dotfile",
   description: "A chadwm configuration analysis website",
   themeConfig: {
-    siteTitle: '',
+    siteTitle:  false,
     logo: '/dwm.png',
     // https://vitepress.dev/reference/default-theme-config
 
