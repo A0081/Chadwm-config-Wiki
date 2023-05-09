@@ -14,7 +14,7 @@ export default defineConfig({
       {
         text: 'Chadwm',
         items: [
-          { text: '预览', link: '/index' },
+          { text: '预览', link: '/' },
           { text: '配置文件结构', link: '/api-examples' },
           { text: '自定义配置项', link: '/markdown-examples' },
           { text: '示例配置文件', link: '/examples' },
