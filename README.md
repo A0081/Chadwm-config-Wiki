@@ -26,7 +26,7 @@
 ╰─ Font            -> JetBrainsMono
 ```
 
-
+![](docs/public/preview.png)
 
 ```bash
 git clone https://github.com/A0081/chadwm-config.git
